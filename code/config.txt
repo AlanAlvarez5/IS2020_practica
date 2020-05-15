@@ -1,0 +1,4 @@
+user:alan
+password:easiermean5
+host:localhost
+database:cinema
